@@ -4,7 +4,7 @@
 ```javascript
 const Luxotick = {
   pronouns: "he" | "him",
-  code: [Javascript, C#, C++, HTML, Python, Java],
+  code: [Javascript, CSharp, CPP, HTML, Python, Java],
   tools: [Node],
   techCommunities: {
                         coorganizer: "Agalar",
