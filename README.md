@@ -1,7 +1,5 @@
 ###
-<p align="left">
-  <img src="https://media.discordapp.net/attachments/763810387942309888/836962164978876487/unknown.png" />
-</p>
+<h2> Hi, Luxotick! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ```javascript
 const Luxotick = {
