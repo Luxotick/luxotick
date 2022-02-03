@@ -1,5 +1,5 @@
 ###
-<h2> Hi, Luxotick! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, Im Luxotick! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ```javascript
 const Luxotick = {
