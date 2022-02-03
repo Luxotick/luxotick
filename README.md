@@ -6,8 +6,8 @@ const Luxotick = {
   pronouns: "he" | "him",
   code: [Javascript, CSharp, CPP, HTML, Python, Java],
   tools: [Node],
-  techCommunities: {
-                        coorganizer: "Agalar",
+  In teams: {
+                        "Agalar, AntiAternosBot, Artic, HayBale"
                       },
 }
 ```
