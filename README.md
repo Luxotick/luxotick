@@ -4,7 +4,7 @@
 ```javascript
 const Luxotick = {
   pronouns: "he" | "him",
-  code: [Javascript, CSharp, CPP, HTML, Python, Java],
+  code: [Javascript, CSharp, CPP, Java],
   tools: [Node],
   In teams: {
                         "Agalar, AntiAternosBot, Artic, HayBale"
