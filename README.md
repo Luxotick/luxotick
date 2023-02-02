@@ -3,7 +3,7 @@
 
 ```javascript
 const Luxotick = {
-  pronouns: "he" | "him",
+  pronouns: "she" | "her" | "panzerkampfwagen",
   code: [Javascript, CSharp, CPP, Java],
   tools: [Node],
   In teams: {
