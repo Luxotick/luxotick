@@ -13,7 +13,7 @@ const Luxotick = {
 ```
 <img src="https://komarev.com/ghpvc/?username=luxotick" />  
 <p align="left">
-<img src="https://readme-stats-luxotick.vercel.app/api/top-langs/?username=luxotick&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img src="https://readme-stats-luxotick.vercel.app/api/top-langs/?username=Luxotick&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 <p align="left">
 <img src="https://readme-stats-luxotick.vercel.app/api?username=Luxotick&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
