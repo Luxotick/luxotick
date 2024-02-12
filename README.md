@@ -24,6 +24,8 @@ const Luxotick = {
 
 <a href="https://www.buymeacoffee.com/luxotick" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cd0elb64cdyv81w22n708czs6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 </p>
 
 
