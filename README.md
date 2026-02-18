@@ -7,7 +7,7 @@ const Luxotick = {
   code: [Javascript, CSharp, CPP, Java],
   tools: [Node],
   In teams: {
-                        "Agalar, AntiAternosBot, Artic, HayBale"
+                        "Agalar, Artic, HayBale"
                       },
 }
 ```
